@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## 👋 Hi there, I'm Weber!
+🎓 Background: NCKU CS
+💻 Interested in: Backend, Full-stack, Data Systems  
+🛠️ Tech Stack: Python, C++, Java, MySQL, HTML/CSS/JS, jQuery  
+📌 Highlight Projects:
+📫 How to reach me: okok88515@gmail.com
 <!--
 **okok88515/okok88515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
